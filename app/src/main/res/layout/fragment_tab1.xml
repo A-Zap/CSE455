@@ -1,0 +1,21 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/tasks"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.captain.schedit.Tab1"
+    android:tag="tab_1">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ListView
+        android:id="@+id/lstTask"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+
+        android:layout_alignParentTop="true"
+        android:text="@string/tasks"
+        android:textSize="30sp" />
+
+
+</RelativeLayout>

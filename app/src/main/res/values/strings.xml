@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Schedit</string>
+    <string name="app_endingsoon">Task List</string>
+    <string name="app_favorite">Favorites</string>
+    <string name="app_calendar">Calendar</string>
+    <string name="app_start">Let\'s Get Started!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_add_tab">addTab</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="tasks">Tasks</string>
+</resources>
